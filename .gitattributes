@@ -1,0 +1,4 @@
+*.txt git-encoding=iso8859-1 zos-working-tree-encoding=IBM-1047
+*.jcl git-encoding=iso8859-1 zos-working-tree-encoding=iso8859-1
+*.py  git-encoding=iso8859-1 zos-working-tree-encoding=IBM-1047
+.gitattributes git-encoding=iso8859-1 zos-working-tree-encoding=iso8859-1
